@@ -1,0 +1,10 @@
+C:\Users\Gwen\Desktop\GestionCliniqueVétérinaireV2\Outils\bin\Debug\Outils.dll
+C:\Users\Gwen\Desktop\GestionCliniqueVétérinaireV2\Outils\bin\Debug\Outils.pdb
+C:\Users\Gwen\Desktop\GestionCliniqueVétérinaireV2\Outils\obj\Debug\Outils.csprojResolveAssemblyReference.cache
+C:\Users\Gwen\Desktop\GestionCliniqueVétérinaireV2\Outils\obj\Debug\Outils.dll
+C:\Users\Gwen\Desktop\GestionCliniqueVétérinaireV2\Outils\obj\Debug\Outils.pdb
+C:\Users\gferre2016\Desktop\GestionCliniqueVétérinaireV2\GestionCliniqueVétérinaireV2\Outils\bin\Debug\Outils.dll
+C:\Users\gferre2016\Desktop\GestionCliniqueVétérinaireV2\GestionCliniqueVétérinaireV2\Outils\bin\Debug\Outils.pdb
+C:\Users\gferre2016\Desktop\GestionCliniqueVétérinaireV2\GestionCliniqueVétérinaireV2\Outils\obj\Debug\Outils.csprojResolveAssemblyReference.cache
+C:\Users\gferre2016\Desktop\GestionCliniqueVétérinaireV2\GestionCliniqueVétérinaireV2\Outils\obj\Debug\Outils.dll
+C:\Users\gferre2016\Desktop\GestionCliniqueVétérinaireV2\GestionCliniqueVétérinaireV2\Outils\obj\Debug\Outils.pdb

@@ -1,0 +1,14 @@
+C:\Users\Gwen\Desktop\GestionCliniqueVétérinaireV2\DAL\bin\Debug\DAL.dll
+C:\Users\Gwen\Desktop\GestionCliniqueVétérinaireV2\DAL\bin\Debug\DAL.pdb
+C:\Users\Gwen\Desktop\GestionCliniqueVétérinaireV2\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Gwen\Desktop\GestionCliniqueVétérinaireV2\DAL\obj\Debug\DAL.dll
+C:\Users\Gwen\Desktop\GestionCliniqueVétérinaireV2\DAL\obj\Debug\DAL.pdb
+C:\Users\gferre2016\Desktop\GestionCliniqueVétérinaireV2\GestionCliniqueVétérinaireV2\DAL\bin\Debug\DAL.dll
+C:\Users\gferre2016\Desktop\GestionCliniqueVétérinaireV2\GestionCliniqueVétérinaireV2\DAL\bin\Debug\DAL.pdb
+C:\Users\gferre2016\Desktop\GestionCliniqueVétérinaireV2\GestionCliniqueVétérinaireV2\DAL\bin\Debug\BO.dll
+C:\Users\gferre2016\Desktop\GestionCliniqueVétérinaireV2\GestionCliniqueVétérinaireV2\DAL\bin\Debug\Outils.dll
+C:\Users\gferre2016\Desktop\GestionCliniqueVétérinaireV2\GestionCliniqueVétérinaireV2\DAL\bin\Debug\BO.pdb
+C:\Users\gferre2016\Desktop\GestionCliniqueVétérinaireV2\GestionCliniqueVétérinaireV2\DAL\bin\Debug\Outils.pdb
+C:\Users\gferre2016\Desktop\GestionCliniqueVétérinaireV2\GestionCliniqueVétérinaireV2\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\gferre2016\Desktop\GestionCliniqueVétérinaireV2\GestionCliniqueVétérinaireV2\DAL\obj\Debug\DAL.dll
+C:\Users\gferre2016\Desktop\GestionCliniqueVétérinaireV2\GestionCliniqueVétérinaireV2\DAL\obj\Debug\DAL.pdb

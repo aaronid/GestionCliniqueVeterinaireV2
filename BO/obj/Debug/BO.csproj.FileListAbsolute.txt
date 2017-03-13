@@ -1,0 +1,14 @@
+C:\Users\Gwen\Desktop\GestionCliniqueVétérinaireV2\BO\bin\Debug\BO.dll
+C:\Users\Gwen\Desktop\GestionCliniqueVétérinaireV2\BO\bin\Debug\BO.pdb
+C:\Users\Gwen\Desktop\GestionCliniqueVétérinaireV2\BO\bin\Debug\Outils.dll
+C:\Users\Gwen\Desktop\GestionCliniqueVétérinaireV2\BO\bin\Debug\Outils.pdb
+C:\Users\Gwen\Desktop\GestionCliniqueVétérinaireV2\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\Users\Gwen\Desktop\GestionCliniqueVétérinaireV2\BO\obj\Debug\BO.dll
+C:\Users\Gwen\Desktop\GestionCliniqueVétérinaireV2\BO\obj\Debug\BO.pdb
+C:\Users\gferre2016\Desktop\GestionCliniqueVétérinaireV2\GestionCliniqueVétérinaireV2\BO\bin\Debug\BO.dll
+C:\Users\gferre2016\Desktop\GestionCliniqueVétérinaireV2\GestionCliniqueVétérinaireV2\BO\bin\Debug\BO.pdb
+C:\Users\gferre2016\Desktop\GestionCliniqueVétérinaireV2\GestionCliniqueVétérinaireV2\BO\bin\Debug\Outils.dll
+C:\Users\gferre2016\Desktop\GestionCliniqueVétérinaireV2\GestionCliniqueVétérinaireV2\BO\bin\Debug\Outils.pdb
+C:\Users\gferre2016\Desktop\GestionCliniqueVétérinaireV2\GestionCliniqueVétérinaireV2\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\Users\gferre2016\Desktop\GestionCliniqueVétérinaireV2\GestionCliniqueVétérinaireV2\BO\obj\Debug\BO.dll
+C:\Users\gferre2016\Desktop\GestionCliniqueVétérinaireV2\GestionCliniqueVétérinaireV2\BO\obj\Debug\BO.pdb
